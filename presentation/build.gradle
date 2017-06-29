@@ -52,6 +52,7 @@ android {
         exclude 'META-INF/rxjava.properties'
     }
 
+    buildToolsVersion '25.0.2'
 }
 
 afterEvaluate {

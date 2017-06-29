@@ -29,6 +29,7 @@ android {
         test.java.srcDirs += 'src/test/kotlin'
     }
 
+    buildToolsVersion '25.0.2'
 }
 
 dependencies {
